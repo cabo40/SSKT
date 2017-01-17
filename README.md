@@ -1,0 +1,2 @@
+# SSKT
+A financial library
