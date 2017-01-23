@@ -1,5 +1,6 @@
 import sqlite3
 import json
+import numpy as np
 
 sqlite_file = ".SSKT_curves.db"
 conn = sqlite3.connect(sqlite_file)
