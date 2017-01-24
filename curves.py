@@ -9,3 +9,4 @@ c.execute('''CREATE TABLE IF NOT EXISTS Curves
 
 conn.commit()
 conn.close()
+###For the moment it doesn't seem like a curve object or curve properties... but it will... :)
